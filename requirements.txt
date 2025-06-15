@@ -1,5 +1,5 @@
-flask
+flask==2.3.3
 tensorflow==2.11.0
-pillow
-requests
-gunicorn
+pillow==10.0.0
+requests==2.31.0
+gunicorn==21.2.0
